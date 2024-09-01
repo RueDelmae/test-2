@@ -9,3 +9,5 @@ pushing local folder to a git repo
 
 ## Branching
 this is in branch "feature-readme"
+adding another comment to learn merge
+waaataao
